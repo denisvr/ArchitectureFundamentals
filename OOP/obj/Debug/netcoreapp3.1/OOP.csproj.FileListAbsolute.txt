@@ -1,0 +1,11 @@
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Elvis-PC\Desktop\DEV\Back\ArchitectureFundamentals\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
